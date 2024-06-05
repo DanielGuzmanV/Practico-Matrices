@@ -452,7 +452,8 @@ namespace Practico_Matrices
 
         // Pregunta 10: ordenar las filas por el numero de elemntos primos. Previo, encontra
         // el numero de elementos primos e incluir en la matriz en la ultima columna, luego ordenar las filas por esta columna
-        // Se realizara por partes:
+        
+           // Se realizara por partes:
         // primera parte: verificamos los numeros primos por fila:
         public int primosFil(int numfil)
         {
